@@ -1,2 +1,2 @@
-# Plinko-game
-press space to start
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
